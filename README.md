@@ -2,7 +2,7 @@
 
 ## Gitup page
 
-(https://kferrandonfulbert.github.io/pwa-01-fetch/)[rendu de l'app]
+https://kferrandonfulbert.github.io/pwa-01-fetch/
 
 ## Objectif
 BrewMaster, une société passionnée de bières artisanales, souhaite créer une présence en ligne robuste pour présenter sa vaste gamme de bières. Pour ce faire, elle exploite l'API PunkAPI, une ressource complète fournissant des informations détaillées sur les bières. L'objectif est de développer un site web attractif et une application mobile conviviale afin d'améliorer l'expérience des clients et de promouvoir leurs produits.
